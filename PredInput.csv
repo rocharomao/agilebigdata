@@ -1,0 +1,791 @@
+Type;Dias
+Feature;42
+Feature;44
+Feature;4
+Feature;31
+Feature;24
+Feature;42
+Feature;4
+Bug;42
+Bug;105
+Subtarefa;15
+Subtarefa;2
+Subtarefa;6
+Subtarefa;50
+Subtarefa;23
+Subtarefa;16
+Subtarefa;10
+Subtarefa;6
+Subtarefa;8
+Subtarefa;10
+Subtarefa;10
+Tarefa;10
+Subtarefa;9
+Demand;22
+Subtarefa;28
+Subtarefa;1
+Subtarefa;1
+UX;10
+Subtarefa;22
+Subtarefa;22
+Subtarefa;30
+Tarefa;30
+Subtarefa;16
+Feature;40
+Subtarefa;5
+Subtarefa;1
+Subtarefa;9
+Subtarefa;0
+Subtarefa;1
+Tarefa;40
+Subtarefa;7
+Bug;47
+Feature;118
+Subtarefa;1
+Bug;57
+Feature;50
+Feature;39
+Subtarefa;0
+Feature;39
+Feature;57
+Bug;6
+Subtarefa;1
+Feature;117
+Feature;6
+Feature;39
+Bug;102
+Bug;117
+QA;3
+Tarefa;38
+Bug;56
+Tarefa;56
+Feature;35
+Feature;53
+Bug;33
+Subtarefa;0
+Subtarefa;20
+Subtarefa;1
+QA;1
+Subtarefa;6
+Subtarefa;3
+Subtarefa;5
+Subtarefa;0
+Subtarefa;7
+QA;3
+UX;24
+Subtarefa;1
+Feature Planning;1
+Management;12
+Development;1
+Tarefa;34
+Development;22
+Development;4
+Subtarefa;0
+Development;14
+QA;11
+QA;0
+QA;0
+Subtarefa;4
+Feature Planning;3
+Subtarefa;1
+Subtarefa;0
+Subtarefa;1
+Subtarefa;1
+Bug;21
+UX;18
+Subtarefa;1
+Development;0
+QA;0
+Bug;98
+QA;0
+Subtarefa;2
+Development;0
+Development;0
+Development;2
+Tarefa;32
+Subtarefa;1
+Subtarefa;5
+Development;5
+Development;5
+Development;15
+Development;15
+Development;15
+Development;15
+Development;15
+Development;15
+Development;15
+Development;15
+Development;8
+Development;8
+Development;8
+Development;8
+Development;8
+Development;13
+Development;8
+Development;13
+UAT;0
+UAT;4
+Feature Review;5
+Subtarefa;3
+UAT;0
+Development;0
+Feature;14
+Development;0
+Development;0
+Subtarefa;11
+Subtarefa;17
+QA;1
+Subtarefa;0
+Subtarefa;0
+Subtarefa;0
+Subtarefa;0
+Tarefa;31
+Tarefa;31
+Development;8
+Continuous;1
+Feature;91
+Feature;91
+Feature;13
+Feature;91
+Development;14
+Development;16
+Development;14
+Feature;91
+Subtarefa;0
+Chamado;9
+Chamado;2
+Subtarefa;9
+Subtarefa;9
+Subtarefa;9
+Subtarefa;9
+Management;0
+Bug;75
+Tarefa;90
+Subtarefa;13
+Development;2
+Development;2
+Management;16
+Chamado;8
+Chamado;8
+Chamado;8
+Tarefa;29
+Subtarefa;0
+Feature;89
+Chamado;8
+Bug;89
+Feature Planning;0
+Development;10
+Bug;73
+Bug;88
+QA;0
+QA;0
+Bug;88
+QA;0
+QA;0
+Subtarefa;0
+Subtarefa;0
+Chamado;6
+Subtarefa;0
+Subtarefa;1
+Subtarefa;2
+Subtarefa;2
+Subtarefa;2
+Subtarefa;5
+Bug;83
+Subtarefa;0
+Subtarefa;6
+Subtarefa;1
+Subtarefa;1
+Subtarefa;1
+Subtarefa;1
+Chamado;4
+Chamado;4
+Subtarefa;11
+Subtarefa;4
+Subtarefa;0
+QA;0
+Subtarefa;13
+Subtarefa;4
+Subtarefa;1
+Subtarefa;1
+Subtarefa;2
+Subtarefa;0
+Subtarefa;2
+Development;0
+Subtarefa;0
+Subtarefa;1
+Subtarefa;2
+Subtarefa;3
+Tarefa;16
+UX;14
+Subtarefa;3
+Subtarefa;2
+Subtarefa;0
+Subtarefa;1
+Subtarefa;1
+Subtarefa;2
+Subtarefa;0
+Subtarefa;0
+Subtarefa;1
+Subtarefa;1
+Subtarefa;0
+Subtarefa;0
+Tarefa;8
+Subtarefa;1
+Alpha Test;2
+Alpha Test;2
+Subtarefa;2
+UAT;17
+Tarefa;12
+Subtarefa;1
+Subtarefa;1
+Subtarefa;0
+Alpha Test;5
+Feature Review;15
+UX Review;7
+Subtarefa;1
+Subtarefa;7
+Tarefa;1
+Development;0
+Development;1
+Tarefa;76
+Feature Planning;0
+Subtarefa;0
+Subtarefa;0
+Subtarefa;0
+Alpha Test;0
+Development;14
+Subtarefa;12
+Subtarefa;0
+Subtarefa;0
+Tarefa;75
+Subtarefa;1
+Feature Planning;7
+Alpha Test;7
+Feature Review;4
+Development;6
+Subtarefa;0
+Bug;74
+Subtarefa;0
+Subtarefa;4
+Subtarefa;4
+Development;0
+Alpha Test;0
+Development;0
+Development;4
+Development;7
+Subtarefa;3
+Development;4
+UX;0
+Tarefa;2
+Subtarefa;0
+Subtarefa;0
+Subtarefa;0
+UAT;2
+UAT;8
+Subtarefa;21
+Subtarefa;0
+Subtarefa;15
+Subtarefa;2
+Subtarefa;0
+Subtarefa;6
+Subtarefa;0
+Development;1
+Subtarefa;2
+Subtarefa;3
+Subtarefa;7
+Development;1
+UX;0
+Feature;69
+Alpha Test;2
+Feature Review;2
+UX Review;1
+Feature;69
+Chamado;6
+Development;4
+UAT;6
+Development;0
+Development;0
+UX;6
+Development;0
+Development;0
+Development;0
+UAT;10
+UAT;4
+UAT;6
+Development;0
+Alpha Test;3
+Development;3
+Development;0
+Development;0
+Subtarefa;1
+Subtarefa;1
+Development;1
+Tarefa;11
+Subtarefa;11
+Subtarefa;11
+Subtarefa;1
+Development;1
+UAT;14
+Development;0
+Development;8
+Development;0
+Development;0
+Development;0
+Development;1
+Development;0
+Development;8
+Development;0
+Development;1
+Development;8
+Development;7
+Development;0
+Development;1
+Development;0
+Development;3
+Development;1
+Development;9
+UX;6
+Subtarefa;0
+Subtarefa;0
+Subtarefa;2
+Subtarefa;1
+UX Review;0
+Subtarefa;1
+Subtarefa;2
+Bug;63
+UX;0
+Development;12
+Subtarefa;0
+Tarefa;6
+Subtarefa;1
+Subtarefa;2
+Management;0
+Management;0
+Management;0
+Management;0
+Subtarefa;0
+Subtarefa;28
+UX;2
+Development;6
+Subtarefa;27
+Development;0
+UX;1
+UX;4
+UX;5
+UX;25
+Feature;61
+Subtarefa;0
+Subtarefa;20
+Alpha Test;1
+Feature Review;5
+UX Review;4
+Tarefa;11
+Subtarefa;5
+UX;3
+Development;5
+Development;3
+Chamado;25
+UAT;4
+Feature Review;0
+Tarefa;11
+Subtarefa;11
+Subtarefa;2
+Development;0
+Subtarefa;2
+Development;2
+Development;0
+Subtarefa;1
+Alpha Test;1
+Subtarefa;0
+UX;14
+UAT;52
+Development;0
+Development;1
+Development;12
+Subtarefa;19
+Subtarefa;1
+Development;4
+Development;1
+Development;0
+Alpha Test;1
+Subtarefa;0
+Timebox;0
+Subtarefa;0
+Development;0
+Subtarefa;0
+Subtarefa;0
+Subtarefa;4
+Development;1
+Development;1
+Subtarefa;1
+Timebox;0
+Timebox;0
+Feature;35
+Subtarefa;0
+Subtarefa;2
+Subtarefa;2
+Subtarefa;2
+Subtarefa;2
+Subtarefa;2
+Subtarefa;0
+Feature Planning;0
+Timebox;1
+Development;1
+Subtarefa;0
+Development;1
+Development;0
+Alpha Test;0
+Development;1
+Tarefa;48
+Feature Review;1
+Timebox;4
+Timebox Sub-Task;4
+Timebox Sub-Task;0
+Development;1
+UAT;4
+Subtarefa;3
+Subtarefa;4
+Subtarefa;4
+Feature;5
+Subtarefa;0
+Subtarefa;0
+Development;0
+Development;4
+Subtarefa;25
+Tarefa;3
+Subtarefa;2
+Development;0
+Feature;43
+Tarefa;3
+Subtarefa;1
+Subtarefa;2
+Chamado;21
+Subtarefa;1
+Subtarefa;0
+UX;39
+Subtarefa;14
+Tarefa;8
+Subtarefa;2
+Feature Planning;17
+Subtarefa;0
+Subtarefa;0
+Alpha Test;1
+Subtarefa;1
+Tech Planning;2
+Feature;42
+Subtarefa;1
+Alpha Test;1
+Feature Review;0
+Subtarefa;5
+Subtarefa;0
+Tarefa;6
+Subtarefa;0
+UAT;0
+Development;0
+Subtarefa;1
+UAT;37
+Alpha Test;1
+Feature Review;5
+Tech Planning;0
+Development;5
+Development;0
+Tech Planning;4
+Tech Planning;4
+Development;5
+Subtarefa;6
+Subtarefa;0
+Alpha Test;4
+Feature Review;13
+UX Review;5
+Development;4
+Development;0
+Tarefa;3
+Development;2
+Development;3
+Subtarefa;4
+Subtarefa;1
+Tarefa;3
+Subtarefa;3
+Subtarefa;3
+UAT;1
+Tarefa;16
+Subtarefa;1
+UAT;31
+Development;1
+Subtarefa;0
+Subtarefa;0
+Subtarefa;14
+Alpha Test;3
+Feature Review;20
+UX Review;13
+Subtarefa;1
+Tarefa;15
+Development;14
+Development;14
+Development;1
+Subtarefa;0
+Tech Planning;1
+Subtarefa;2
+UX;28
+Subtarefa;5
+Alpha Test;1
+Feature Review;1
+Subtarefa;6
+Chamado;1
+Development;12
+Alpha Test;0
+Alpha Test;0
+UAT;21
+Tech Planning;3
+Development;11
+Feature;32
+Tech Planning;0
+Development;3
+Subtarefa;2
+Tech Planning;2
+Tarefa;10
+Subtarefa;8
+Subtarefa;8
+Subtarefa;3
+Subtarefa;9
+Subtarefa;8
+Tarefa;29
+Subtarefa;2
+Tech Planning;0
+Subtarefa;5
+Development;2
+Development;5
+Tech Planning;1
+Subtarefa;1
+UAT;19
+Subtarefa;0
+Subtarefa;4
+Tech Planning;4
+Bug;25
+Alpha Bug;6
+Subtarefa;0
+Development;1
+Development;1
+Subtarefa;0
+Alpha Test;11
+Alpha Test;0
+Subtarefa;17
+Subtarefa;11
+Subtarefa;10
+Tech Planning;2
+Development;11
+Tech Planning;7
+Subtarefa;6
+Development;14
+Tarefa;2
+UX;6
+Tech Planning;0
+Subtarefa;10
+Subtarefa;0
+UX;10
+Tech Planning;10
+Tech Planning;10
+Tech Planning;10
+Development;17
+Tech Planning;10
+Tech Planning;10
+Development;24
+Tech Planning;14
+Tech Planning;15
+Tech Planning;16
+Tech Planning;17
+Tech Planning;21
+Development;20
+Subtarefa;10
+Development;30
+Development;8
+Development;21
+Tech Planning;21
+Development;22
+Tech Planning;5
+Tech Planning;1
+Development;20
+Development;23
+Development;12
+Development;16
+Tech Planning;0
+Development;14
+Development;19
+Development;14
+Development;19
+Subtarefa;9
+Development;1
+UX;27
+Subtarefa;5
+UX;29
+Alpha Test;5
+UAT;13
+UAT;8
+Timebox Sub-Task;4
+Subtarefa;0
+Subtarefa;0
+Subtarefa;0
+Subtarefa;8
+Tarefa;1
+Subtarefa;1
+UAT;4
+Chamado;3
+Tech Planning;3
+Tech Planning;3
+UAT;4
+Subtarefa;0
+Subtarefa;4
+Subtarefa;14
+Subtarefa;8
+Subtarefa;8
+Subtarefa;0
+Development;7
+Tarefa;20
+Subtarefa;20
+Tarefa;5
+Subtarefa;4
+Subtarefa;11
+Tech Planning;1
+Development;5
+Subtarefa;14
+Subtarefa;0
+Subtarefa;0
+Subtarefa;0
+Subtarefa;12
+Development;0
+Development;0
+Development;3
+Development;3
+Development;5
+Subtarefa;0
+Subtarefa;3
+Chamado;12
+Tarefa;21
+Subtarefa;18
+DevOps;13
+Development;3
+Subtarefa;0
+Subtarefa;0
+Alpha Test;1
+UX;15
+UX;18
+Subtarefa;0
+Subtarefa;0
+Subtarefa;0
+Alpha Bug;0
+Subtarefa;0
+Subtarefa;6
+Chamado;1
+Subtarefa;0
+Tarefa;3
+DevOps;1
+Tarefa;14
+Subtarefa;14
+Subtarefa;14
+Subtarefa;14
+Subtarefa;14
+Subtarefa;14
+DevOps;1
+QA;1
+QA;0
+Alpha Test;0
+Bug;6
+Development;0
+Development;0
+Development;0
+Development;2
+Subtarefa;1
+UAT;0
+Subtarefa;7
+Development;7
+Tarefa;1
+DevOps;1
+Development;10
+Development;13
+Development;6
+Development;14
+Development;3
+Development;3
+Tarefa;4
+Development;1
+UX;0
+Tech Planning;1
+Subtarefa;8
+Subtarefa;1
+Alpha Test;3
+Feature Review;0
+UX Review;3
+Subtarefa;2
+Subtarefa;8
+Development;2
+Tarefa;7
+DevOps;7
+Análise Técnica;0
+Subtarefa;6
+Subtarefa;0
+Development;1
+Feature Planning;0
+Development;2
+Subtarefa;7
+Development;5
+Development;5
+Development;0
+Development;6
+Development;0
+Tech Planning;2
+Tech Planning;7
+Development;0
+Development;9
+Development;2
+Timebox;1
+Timebox Sub-Task;1
+Development;7
+Development;7
+Development;7
+Development;7
+Análise UX;5
+UAT;7
+Subtarefa;4
+Tech Planning;3
+Subtarefa;4
+Development;3
+Tarefa;2
+DevOps;2
+Development;0
+Development;0
+Development;0
+Development;2
+Subtarefa;0
+Development;0
+Subtarefa;4
+Subtarefa;1
+Subtarefa;0
+Alpha Test;0
+Subtarefa;0
+Chamado;2
+Development;1
+UAT;1
+UAT;1
+UAT;3
+Subtarefa;0
+Tarefa;1
+DevOps;1
+Subtarefa;2
+Tech Planning;0
+Development;0
+Feature Review;1
+Feature Review;0
+Development;1
+Subtarefa;0
+Tarefa;1
+DevOps;0
+DevOps;0
+DevOps;1
+Tech Planning;4
+Development;0
+DevOps;0
+Development;0
+DevOps;0
+Subtarefa;0
+Development;3
